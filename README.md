@@ -40,6 +40,16 @@ Run:
 $ streamlit run app.py
 ```
 
+# Screens
+
+Screen1:
+![app1](https://user-images.githubusercontent.com/11994641/82099185-0ee44080-96dd-11ea-9eae-cad7347cf579.jpg)
+
+Screen2:
+![app2](https://user-images.githubusercontent.com/11994641/82099203-20c5e380-96dd-11ea-8d87-426a6f93fddc.jpg)
+
+
+
 # TODO 
 -Revision in features selection step.
 -Model Tunning
