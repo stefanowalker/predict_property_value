@@ -51,8 +51,8 @@ Screen2:
 
 
 # TODO 
--Revision in features selection step.
--Model Tunning
+- Revision in features selection step.
+- Model Tunning
 
 # CREDITIS
 - This application was built through a set of lessons from the week of data science made by the team of [Minerando Dados].
